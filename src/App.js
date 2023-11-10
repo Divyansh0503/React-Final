@@ -59,15 +59,15 @@ function App() {
               </a>
             </td>
             <td>
-              <a target="_blank" href="https://github.com/Divyansh0503/Rtask-4">
-                Vercel_Task-4
+              <a>
+                -----
               </a>
             </td>
           </tr>
           <tr>
             <td>Task-5</td>
             <td>
-              <a target="_blank" href="https://github.com/Mayank6787/A3-Task_05">
+              <a target="_blank" href="https://github.com/Divyansh0503/Rtask-5">
                 GitHub_Task-5
               </a>
             </td>
@@ -80,13 +80,13 @@ function App() {
           <tr>
             <td>Task-6</td>
             <td>
-              <a target="_blank" href="https://github.com/Mayank6787/A3-Task_06">
+              <a target="_blank" href="https://github.com/Divyansh0503/Rtask-6">
                 GitHub_Task-6
               </a>
             </td>
             <td>
-              <a target="_blank" href="https://a3-task-06.vercel.app/">
-                Vercel_Task-6
+              <a >
+                ------
               </a>
             </td>
           </tr>
